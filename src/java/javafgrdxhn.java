@@ -3,6 +3,7 @@ public class javafgrdxhn {
         int a=10;
         int b=++a + 10;
         System.out.println(b);
+
     }
 }
 
