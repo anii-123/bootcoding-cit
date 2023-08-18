@@ -5,7 +5,6 @@ public class hourstosecondandmintosec {
         int second =minutes*60;
         int hourseconds =hour*60*60;
 
-
         System.out.println("hour to second:" + hourseconds);
         System.out.println("minutes to seconds:"+ second);
     }
