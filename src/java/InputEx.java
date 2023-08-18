@@ -17,5 +17,8 @@ public class InputEx {
         int div = n/m;
         System.out.println(div);
 
+
+
+
     }
 }
